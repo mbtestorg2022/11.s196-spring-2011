@@ -4,30 +4,243 @@ title: Calendar
 uid: f09b0b62-298d-dec6-15b9-11d6d058aad1
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Water for life: Commons, commodity, nature/culture | &nbsp; |
-| 2 | Water, history, and culture | &nbsp; |
-| 3 | Water resources: The physical system, weather, and climate | Quiz 1 |
-| Water law |
-| 4 | Water power; Field trip 1: Lowell National Historical Park |
-| Water management |
-| 5 | China's Three Gorges Dam Controversy | &nbsp; |
-| Dams, reservoirs, and hydropower |
-| 6 | Water scarcity |
-| Water pollution |
-| Water and energy: Hydraulic fracturing |
-| 7 | Field trip 2: Cambridge Water Treatment Plant | Quiz 2 |
-| Water, sanitation, hygiene (WASH) |
-| 8 | WASH; Pure Home Water (NGO in Ghana) |
-| Water and climate change |
-| 9 | Water conflict and cooperation | Term project due |
-| Watersheds, landscape and urban design; Adaption through policy planning, management, and economic tools |
-| 10 | Adaptive technologies | Quiz 3 |
-| Adaption: Integrated water resources management |
-| 11 | Ecological waterscapes | &nbsp; |
-| 12 | Protecting water: Green roofs, rainwater harvesting, and waste stabilization ponds |
-| Water footprint |
-| 13 | Water, food security, and agriculture | Quiz 4 |
-| Field trip 3: New Charles River Dam and Massachusetts Dams |
-| 14 | Student presentations; Water visions: The next 50 years | Extra credit term project upgrade due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Water for life: Commons, commodity, nature/culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Water, history, and culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Water resources: The physical system, weather, and climate
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Water power; Field trip 1: Lowell National Historical Park
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+China's Three Gorges Dam Controversy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dams, reservoirs, and hydropower
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Water scarcity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water pollution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water and energy: Hydraulic fracturing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip 2: Cambridge Water Treatment Plant
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water, sanitation, hygiene (WASH)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+WASH; Pure Home Water (NGO in Ghana)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water and climate change
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Water conflict and cooperation
+{{< tdclose >}}
+{{< tdopen >}}
+Term project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Watersheds, landscape and urban design; Adaption through policy planning, management, and economic tools
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Adaptive technologies
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Adaption: Integrated water resources management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ecological waterscapes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Protecting water: Green roofs, rainwater harvesting, and waste stabilization ponds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water footprint
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Water, food security, and agriculture
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field trip 3: New Charles River Dam and Massachusetts Dams
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations; Water visions: The next 50 years
+{{< tdclose >}}
+{{< tdopen >}}
+Extra credit term project upgrade due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
