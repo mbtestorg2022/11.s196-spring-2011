@@ -111,7 +111,7 @@ Francis, James B. Preface 1 in _Lowell Hydraulic Experiments_. 4th ed. D. Van No
 
 "[Alstom to Supply Equipment to Guanyinyan Hydroelectric Dam in China](https://www.power-grid.com/der-grid-edge/alstom-to-supply-equipment-to-guanyinyan-hydroelectric-dam-in-china/#gref)." _Electric Light & Power, POWERGRID International, and Utility Products_ (2010).
 
-"Improvements in Energy Efficiency, Historic Preservation in Park." _Official Lowell Park Newspaper_, 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB](http://www.nps.gov/lowe/parknews/upload/Lowell_Offering_2010_Web.pdf))
+"Improvements in Energy Efficiency, Historic Preservation in Park." _Official Lowell Park Newspaper_, 2011. ([PDF - 3.1MB](http://www.nps.gov/lowe/parknews/upload/Lowell_Offering_2010_Web.pdf))
 
 Malone, Patrick M. Chapters 1 and 2 in _Waterpower in Lowell: Engineering and Industry in Nineteenth-Century America_. Johns Hopkins University Press, 2009. ISBN: 9780801893063.
 
@@ -176,7 +176,7 @@ Dams, reservoirs, and hydropower
 
 Pennington, Karrie Lynn, and Thomas V. Cech. "Dams and Reservoirs." Chapter 10 in _Introduction to Water Resources and Environmental Issues_. Cambridge University Press, 2010. ISBN: 9780521869881.
 
-Richter, Brian D., Sandra Postel, et al. "Lost in Development's Shadow: The Downstream Human Consequences of Dams." _Water Alternatives_ 3, no. 2 (2010): 14–42. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://www.google.com/url?sa=t&rct=j&q=lost%20in%20development%E2%80%99s%20shadow%3A%20the%20downstream%20human%20consequences%20of%20dams&source=web&cd=1&ved=0CBsQFjAA&url=http%3A%2F%2Fwww.water-alternatives.org%2Findex.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D80&ei=8aqqTvHZFOGtsALv48HqDg&usg=AFQjCNEElk7wOddFTU46d3uFNxO--eMdPg&sig2=VvGNJ9t7upef_CFbrwSQ_g&cad=rja))
+Richter, Brian D., Sandra Postel, et al. "Lost in Development's Shadow: The Downstream Human Consequences of Dams." _Water Alternatives_ 3, no. 2 (2010): 14–42. ([PDF - 1.3MB](http://www.google.com/url?sa=t&rct=j&q=lost%20in%20development%E2%80%99s%20shadow%3A%20the%20downstream%20human%20consequences%20of%20dams&source=web&cd=1&ved=0CBsQFjAA&url=http%3A%2F%2Fwww.water-alternatives.org%2Findex.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D80&ei=8aqqTvHZFOGtsALv48HqDg&usg=AFQjCNEElk7wOddFTU46d3uFNxO--eMdPg&sig2=VvGNJ9t7upef_CFbrwSQ_g&cad=rja))
 
 
 {{< tdclose >}}
@@ -192,7 +192,7 @@ Water scarcity
 {{< tdopen >}}
 
 
-United Nations. "Water Scarcity, Risk, Vulnerability." Chapter 4 in _Beyond Scarcity: Power, Poverty, and the Global Water Crisis_. Human Development Report, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_4.pdf))
+United Nations. "Water Scarcity, Risk, Vulnerability." Chapter 4 in _Beyond Scarcity: Power, Poverty, and the Global Water Crisis_. Human Development Report, 2006. ([PDF - 1.6MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_4.pdf))
 
 Palaniappan, Meena, and Peter H. Gleick. "Peak Water." Chapter 1 in _The World's Water 2008–2009_. Island Press, 2008. ISBN: 9781597265058.
 
@@ -215,7 +215,7 @@ Carson, Rachel. "A Fable for Tomorrow." Chapter 1 in _Silent Spring_. Houghton M
 
 Cech, Thomas V. "Water Quality." Chapter 10 in _Principles of Water Resources: History, Development, Management, and Policy_. Wiley, 2002. ISBN: 9780471438618.
 
-United Nations Children's Fund. "The Effects of Poor Water Quality." Chapter 2 in _UNICEF Handbook on Water Quality_. UNICEF, 2008, pp. 4–44. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.0MB](https://www.unicef.org/french/wash/files/WQ_Handbook_final_signed_16_April_2008.pdf))
+United Nations Children's Fund. "The Effects of Poor Water Quality." Chapter 2 in _UNICEF Handbook on Water Quality_. UNICEF, 2008, pp. 4–44. ([PDF - 1.0MB](https://www.unicef.org/french/wash/files/WQ_Handbook_final_signed_16_April_2008.pdf))
 
 
 {{< tdclose >}}
@@ -234,7 +234,7 @@ Urbina, Ian. "[Regulation Lax as Gas Wells' Tainted Water Hits Rivers](http://ww
 
 ———. "[Wastewater Recycling No Cure-All in Gas Process](http://www.nytimes.com/2011/03/02/us/02gas.html?_r=1&pagewanted=all)," _New York Times_, March 1, 2011.
 
-American Petroleum Institute. "Hydraulic Fracturing Operations - Well Construction and Integrity Guidelines." API HF1, October 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](http://www.api.org/policy/exploration/hydraulicfracturing/upload/API_HF1.pdf))
+American Petroleum Institute. "Hydraulic Fracturing Operations - Well Construction and Integrity Guidelines." API HF1, October 2009. ([PDF - 2.0MB](http://www.api.org/policy/exploration/hydraulicfracturing/upload/API_HF1.pdf))
 
 Lustgarten, Abrahm. "[Buried Secrets: Is Natural Gas Drilling Endangering U.S. Water Supplies?](http://www.propublica.org/article/buried-secrets-is-natural-gas-drilling-endangering-us-water-supplies-1113)" _ProPublica_, November 13, 2008.
 
@@ -267,9 +267,9 @@ Water, sanitation, hygiene (WASH)
 {{< tdopen >}}
 
 
-United Nations Development Program. "Ending the Crisis in Water and Sanitation." Chapter 1 in Human Development Report, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_1.pdf))
+United Nations Development Program. "Ending the Crisis in Water and Sanitation." Chapter 1 in Human Development Report, 2006. ([PDF - 1.3MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_1.pdf))
 
-WHO and UNICEF. _Progress on Sanitation and Drinking-Water, 2010 Update_. WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 12.6MB](http://whqlibdoc.who.int/publications/2010/9789241563956_eng_full_text.pdf))
+WHO and UNICEF. _Progress on Sanitation and Drinking-Water, 2010 Update_. WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation, 2010. ([PDF - 12.6MB](http://whqlibdoc.who.int/publications/2010/9789241563956_eng_full_text.pdf))
 
 Roy, Nilanjana S. "[Improving Women's Status, One Bathroom at a Time](http://www.nytimes.com/2011/03/16/world/asia/16iht-letter16.html?_r=1&adxnnl=1&ref=global-home&adxnnlx=1300215695-8gXYNOETresYydPrgqFCnw)," _New York Times_, March 15, 2011.
 
@@ -302,9 +302,9 @@ Water and climate change
 
 Cooley, Heather. "Water Management in a Changing Climate." Chapter 3 in _The World's Water 2008-2009_. Edited by Peter H. Gleick. Island Press, 2008. ISBN: 9781597265058.
 
-Kundzewicz, Zbigniew W., Luis José Mata, et al. "Freshwater Resources and their Management." Chapter 3 in _Climate Change 2007: Impacts, Adaptation and Vulnerability_. Cambridge University Press, 2007. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 3.6MB](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg2-chapter3-1.pdf))
+Kundzewicz, Zbigniew W., Luis José Mata, et al. "Freshwater Resources and their Management." Chapter 3 in _Climate Change 2007: Impacts, Adaptation and Vulnerability_. Cambridge University Press, 2007. ([PDF - 3.6MB](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg2-chapter3-1.pdf))
 
-Core Writing Team. _Climate Change 2007: Synthesis Report_. Intergovernmental Panel on Climate Change, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf))
+Core Writing Team. _Climate Change 2007: Synthesis Report_. Intergovernmental Panel on Climate Change, 2007. ([PDF - 4.0MB](http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf))
 
 Chen, Zhuocheng, Stephen E. Grasby, et al. "[Relation Between Climate Variability and Groundwater Levels in Upper Carbonate Aquifer, Southern Manitoba, Canada](http://dx.doi.org/10.1016/j.jhydrol.2003.11.029)." _Journal of Hydrology_ 290, no. 1–2 (2004): 43–62.
 
@@ -322,7 +322,7 @@ Water conflict and cooperation
 {{< tdopen >}}
 
 
-United Nations Development Program. "Managing Transboundary Water." Chapter 6 in Human Development Report, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_6.pdf))
+United Nations Development Program. "Managing Transboundary Water." Chapter 6 in Human Development Report, 2006. ([PDF - 1.0MB](http://hdr.undp.org/en/media/HDR_2006_Chapter_6.pdf))
 
 Montenegro, Maywa. "[The Truth About Water Wars](http://seedmagazine.com/content/article/the_truth_about_water_wars?#postel)." _SEED Magazine_, May 14, 2009.
 
@@ -345,7 +345,7 @@ Watersheds, landscape and urban design; Adaption through policy planning, manage
 
 Pennington, Karrie Lynn, and Thomas V. Cech. "Watershed Basics." Chapter 5 in _Introduction to Water Resources and Environmental Issues_. Cambridge University Press, 2010. ISBN: 9780521869881.
 
-Philadelphia Water Department. _Green City, Clean Waters: Summary Report_. Amended on June 1, 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.5MB](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf))
+Philadelphia Water Department. _Green City, Clean Waters: Summary Report_. Amended on June 1, 2011. ([PDF - 4.5MB](http://www.phillywatersheds.org/doc/GCCW_AmendedJune2011_LOWRES-web.pdf))
 
 [_Kounkey Design Initiative (KDI) Blog_](http://blog.kounkuey.org/)
 
@@ -376,13 +376,13 @@ McDonnell, Rachael A. "[Challenges for Integrated Water Resources Management: Ho
 
 Read one example:
 
-UNESCO. "Good Examples." Chapter 5 in _IWRM Guidelines at River Basin Level, Part 2–1_. UNESCO 2009, pp. 59–168. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.9MB](http://unesdoc.unesco.org/images/0018/001864/186418e.pdf))
+UNESCO. "Good Examples." Chapter 5 in _IWRM Guidelines at River Basin Level, Part 2–1_. UNESCO 2009, pp. 59–168. ([PDF - 7.9MB](http://unesdoc.unesco.org/images/0018/001864/186418e.pdf))
 
-Sadoff, Claudia W., and David Grey. "Cooperation on International Rivers." _Water International_ 30, no. 4 (2005): 420–7. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/238182075_Cooperation_on_International_Rivers))
+Sadoff, Claudia W., and David Grey. "Cooperation on International Rivers." _Water International_ 30, no. 4 (2005): 420–7. ([PDF](https://www.researchgate.net/publication/238182075_Cooperation_on_International_Rivers))
 
 Vorosmarty, C. J., P. B. McIntyre, et al. "[Global Threats to Human Water Security and River Biodiversity](http://dx.doi.org/10.1038/nature09440)." _Nature_ 467 (2010): 555–61.
 
-Pahl-Wostl, Claudia. "Transitions Toward Adaptive Management of Water Facing Climate and Global Change." _Water Resources Management_ 21 (2007): 49–62. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/225691872_Transitions_Towards_Adaptive_Management_of_Water_Facing_Climate_and_Global_Change))
+Pahl-Wostl, Claudia. "Transitions Toward Adaptive Management of Water Facing Climate and Global Change." _Water Resources Management_ 21 (2007): 49–62. ([PDF](https://www.researchgate.net/publication/225691872_Transitions_Towards_Adaptive_Management_of_Water_Facing_Climate_and_Global_Change))
 
 
 {{< tdclose >}}
@@ -398,9 +398,9 @@ Ecological waterscapes
 {{< tdopen >}}
 
 
-"Active, Beautiful, Clean Waters: Design Guidelines." Public Utilities Board, Singapore, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 16.1MB](https://edepot.wur.nl/315106))
+"Active, Beautiful, Clean Waters: Design Guidelines." Public Utilities Board, Singapore, 2009. ([PDF - 16.1MB](https://edepot.wur.nl/315106))
 
-European Union. "Public Participation in Relation to the Water Framework Directive." Guidance Document No. 8. Water Framework Directive, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3MB](http://www.waterframeworkdirective.wdd.moa.gov.cy/docs/GuidanceDocuments/Guidancedoc8Publicparticipation.pdf))
+European Union. "Public Participation in Relation to the Water Framework Directive." Guidance Document No. 8. Water Framework Directive, 2003. ([PDF - 3.3MB](http://www.waterframeworkdirective.wdd.moa.gov.cy/docs/GuidanceDocuments/Guidancedoc8Publicparticipation.pdf))
 
 
 {{< tdclose >}}
@@ -422,7 +422,7 @@ Ludwig, Art. "Thinking About Water." Chapter 1 in _Water Storage_. Oasis Design,
 
 Varon, Miguel Ricardo Pena. "[Water Stabilization Ponds for Wastewater Treatment](http://www.irc.nl/page/8237)." _International Water and Sanitation Centre_, 2003.
 
-Minke, Gernot. "Inclined Green Roofs - Ecological and Economical Advantages, Passive Heating and Cooling Effect." CESB07 Prague: Proceedings International Conference 'Central Europe towards Sustainable Building, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.irbnet.de/daten/iconda/CIB7910.pdf))
+Minke, Gernot. "Inclined Green Roofs - Ecological and Economical Advantages, Passive Heating and Cooling Effect." CESB07 Prague: Proceedings International Conference 'Central Europe towards Sustainable Building, 2007. ([PDF](http://www.irbnet.de/daten/iconda/CIB7910.pdf))
 
 xantilli8. "Babilonia Water Tower." April 23, 2011. YouTube. Accessed November 1, 2011.  
 [http://www.youtube.com/watch?v=wqRXleK69Y8](http://www.youtube.com/watch?v=wqRXleK69Y8)
@@ -444,9 +444,9 @@ Woelfle-Erskine, Cleo, Berit Anderson, et al. "[6 Simple Ways to Bring the Water
 
 Hoekstra, A. Y., and A. K. Capagain. "Water Footprints of Nations: Water Use by People as a Function of Their Consumption Pattern." In _Integrated Assessment of Water Resources and Global Change_. Edited by Eric Craswell, Mike Bonnell, et al. Springer, 2007. ISBN: 9781402055904.
 
-Aldaya, Maite M., Pedro Martinez-Santos, et al. "Incorporating the Water Footprint and Virtual Water into Policy: Reflections from the Mancha Occidental Region, Spain." _Water Resource Management_ 24 (2010): 941–58. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.waterfootprint.org/Reports/Aldaya-et-al-2010.pdf))
+Aldaya, Maite M., Pedro Martinez-Santos, et al. "Incorporating the Water Footprint and Virtual Water into Policy: Reflections from the Mancha Occidental Region, Spain." _Water Resource Management_ 24 (2010): 941–58. ([PDF - 1.2MB](http://www.waterfootprint.org/Reports/Aldaya-et-al-2010.pdf))
 
-Falkenmark, Malin, and Johan Rockstrom. "The New Blue and Green Water Paradigm: Breaking New Ground for Water Resources Planning and Management." _Journal of Water Resources Planning and Management_ 132, no. 3 (2006): 129–32. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](https://www.researchgate.net/publication/228621945_The_New_Blue_and_Green_Water_Paradigm_Breaking_New_Ground_for_Water_Resources_Planning_and_Management))
+Falkenmark, Malin, and Johan Rockstrom. "The New Blue and Green Water Paradigm: Breaking New Ground for Water Resources Planning and Management." _Journal of Water Resources Planning and Management_ 132, no. 3 (2006): 129–32. ([PDF - 1.6MB](https://www.researchgate.net/publication/228621945_The_New_Blue_and_Green_Water_Paradigm_Breaking_New_Ground_for_Water_Resources_Planning_and_Management))
 
 Aldaya, Maite M., and A. Y. Hoekstra. "[The Water Needed for Italians to Eat Pasta and Pizza](http://dx.doi.org/10.1016/j.agsy.2010.03.004)." _Agricultural Systems_ 103, no. 6 (2010): 351–60.
 
@@ -466,13 +466,13 @@ Water, food security, and agriculture
 
 Falkenmark, Malin. "Shifts in Thinking to Address the 21st Century Hunger Gap." In _Integrated Assessment of Water Resources and Global Change_. Edited by Eric Craswell, Mike Bonnell, et al. Springer, 2007. ISBN: 9781402055904.
 
-"Summary." In _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.8MB](http://www.iwmi.cgiar.org/assessment/files_new/synthesis/Summary_SynthesisBook.pdf))
+"Summary." In _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. ([PDF - 3.8MB](http://www.iwmi.cgiar.org/assessment/files_new/synthesis/Summary_SynthesisBook.pdf))
 
-Molden, David, Jean-Marc Faures, et al. "Setting the Scene." Chapter 1 in _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.iwmi.cgiar.org/assessment/Water%20for%20Food%20Water%20for%20Life/Chapters/Chapter%201%20Setting%20the%20Scene.pdf))
+Molden, David, Jean-Marc Faures, et al. "Setting the Scene." Chapter 1 in _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. ([PDF](http://www.iwmi.cgiar.org/assessment/Water%20for%20Food%20Water%20for%20Life/Chapters/Chapter%201%20Setting%20the%20Scene.pdf))
 
-Molden, David, Karen Franken, et al. "Trends in Water and Agricultural Development." Chapter 2 in _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.0MB](http://www.iwmi.cgiar.org/assessment/Water%20for%20Food%20Water%20for%20Life/Chapters/Chapter%202%20Trends.pdf))
+Molden, David, Karen Franken, et al. "Trends in Water and Agricultural Development." Chapter 2 in _Water for Food, Water for Life_. Edited by David Molden. International Water Management Institute, 2007. ([PDF - 3.0MB](http://www.iwmi.cgiar.org/assessment/Water%20for%20Food%20Water%20for%20Life/Chapters/Chapter%202%20Trends.pdf))
 
-United Nations "Water Competition in Agriculture." Chapter 5 in _Beyond Scarcity: Power, Poverty, and the Global Water Crisis_. Human Development Report, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://hdr.undp.org/en/media/HDR_2006_Chapter_5.pdf))
+United Nations "Water Competition in Agriculture." Chapter 5 in _Beyond Scarcity: Power, Poverty, and the Global Water Crisis_. Human Development Report, 2006. ([PDF](http://hdr.undp.org/en/media/HDR_2006_Chapter_5.pdf))
 
 
 {{< tdclose >}}
